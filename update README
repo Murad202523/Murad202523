@@ -1,42 +1,46 @@
 Hi, I'm Murad 👋
 
-💻 Frontend (React) & Backend (Java) Developer
+💻 **Frontend (React) & Backend (Java) Developer**
+
 
 🚀 About Me
 
-I'm a Full-Stack Developer (React + Java)
-Currently improving my skills and building real projects
-Focused on becoming a strong developer and working in IT
+- 💡 Full-Stack Developer (React + Java)
+- 📚 Currently improving my skills and building real-world projects
+- 🎯 Goal: Become a strong developer and start a career in IT
+- ⚡ Interested in modern web technologies and clean code
 
 
 🛠 Tech Stack
 
-Frontend:
+**🎨 Frontend:**  
+HTML5, CSS3, Bootstrap,  
+JavaScript (ES6+), React,  
+Responsive Design, REST API Integration  
 
-HTML, CSS
-JavaScript (ES6+)
-React
+**⚙️ Backend:**  
+Java, Spring Boot (Basic),  
+REST API Development,  
+OOP, MVC Architecture  
 
-Backend:
+**🗄 Database:**  
+SQL, MySQL  
 
-Java
-REST API
-
-Tools:
-
-Git & GitHub
+**🧰 Tools & Other:**  
+Git, GitHub, Postman, VS Code, Figma  
+Problem Solving, Clean Code Principles
 
 
 🚀 Projects
 
 🔹 💰 [FlipEarn](https://github.com/Murad202523/FlipEarn)  
-Frontend web app (React)
+Frontend web app built with React. Features user interaction and modern UI.
 
-🔹 🌐 [Hotel-booking](https://github.com/Murad202523/your-project-2)  
-Frontend web app (React)
+🔹 🏨 [Hotel Booking](https://github.com/Murad202523/hotel-booking)  
+React app for booking hotels with clean UI and responsive design.
 
-🔹 ⚙️ [Prescripto](https://github.com/Murad202523/your-project-3)  
-Frontend web app (React)
+🔹 💊 [Prescripto](https://github.com/Murad202523/prescripto)  
+Medical-themed React app with structured UI and component-based architecture.
 
 
 📫 Contact Me
